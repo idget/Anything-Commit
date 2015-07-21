@@ -1,2 +1,2 @@
-# Anything-Commit
-Do anything to this repository.
+# Anything Commit
+Make a pull request and start making commits to this repository :+1:
