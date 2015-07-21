@@ -1,0 +1,10 @@
+name: PlsMeFan
+version: 10000.1
+description: #sexy
+authors: [MeFan]
+commands:
+    plsmefan:
+        description: Pls I am your fan
+        usage: /<command> <player>
+        permission: plsmefan.cmd.pmf
+        permission-message: §cNo, you fucking dick
